@@ -20,5 +20,5 @@ phases:
    - echo Build completed on `date`
 artifacts:
  files:
-  - "target/msp-springboot-0.0.1-SNAPSHOT.jar"
+  - "**/*"
  discard_paths: no
