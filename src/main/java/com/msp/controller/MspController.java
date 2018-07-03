@@ -8,7 +8,7 @@ public class MspController {
      
     @RequestMapping("/msp")
     public String sayHello() {
-        return "This is our sample java - springboot application";
+        return "<b>This is MSP- java - springboot application</b>";
     }
  
 }
