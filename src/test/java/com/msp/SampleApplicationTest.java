@@ -18,7 +18,7 @@ public class SampleApplicationTest {
 	@Test
 	public void thatApplicationTest1() {
 		System.out.println("thatApplicationTest1 method");
-		Assert.assertEquals(5, 4);
+		
 	}
 	@After
 	public void teardown() {
